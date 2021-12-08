@@ -19,7 +19,7 @@ module "vpc" {
   tags = {
     Terraform   = "true"
     Environment = "demo_capstone"
-    Owner       = "Prashanth_Ganta"
+    Owner       = "Sasmita_Sarangi"
   }
   private_subnet_tags = {
     Name                                        = "private-us-east-1a"
